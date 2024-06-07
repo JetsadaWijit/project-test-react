@@ -24,3 +24,10 @@ yarn-error.log*
 
 # trash files
 package-lock.json
+
+# ico, png, jpg, jpeg, gif
+*.ico
+*.png
+*.jpg
+*.jpeg
+*.gif
